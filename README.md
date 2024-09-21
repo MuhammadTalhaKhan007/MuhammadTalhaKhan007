@@ -1,5 +1,5 @@
 # 💫 About Me:
-1: Developing scalable, high-performance web applications.<br>2: Exciting open-source projects that solve real-world problems.<br>3: Exploring advanced topics in cloud infrastructure and DevOps.<br>4: Backend technologies for building microservices (e.g., Docker, Kubernetes).<br>5: Full-stack development best practices.<br>6: I love solving coding challenges just as much as solving puzzles, and I believe both are great for sharpening problem-solving skills!
+Developing scalable, high-performance web applications 🍀<br>Exciting open-source projects that solve real-world problems 🌐<br>Exploring advanced topics in cloud infrastructure and DevOps 🔥<br>Backend technologies for building microservices (e.g., Docker, Kubernetes) ⚓<br>Full-stack development best practices 🕸️<br>I love solving coding challenges just as much as solving puzzles, and I believe both are great for sharpening problem-solving skills! 🧠
 
 
 ## 🌐 Socials:
