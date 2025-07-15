@@ -1,6 +1,7 @@
 # 💫 About Me:
 Developing scalable, high-performance web applications 🍀<br>Exciting open-source projects that solve real-world problems 🌐<br>Exploring advanced topics in cloud infrastructure and DevOps 🔥<br>Backend technologies for building microservices ⚓<br>Full-stack development best practices 🕸️<br>I love solving coding challenges just as much as solving puzzles! 🧠
 
+🔗 Curious about what I’ve built? Check out [my portfolio](https://portfolio-nine-umber-96.vercel.app/) to see featured projects and live demos.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-talha-khan-55a7b5372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
