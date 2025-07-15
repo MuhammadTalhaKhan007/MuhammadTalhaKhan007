@@ -3,7 +3,7 @@ Developing scalable, high-performance web applications 🍀<br>Exciting open-sou
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-talha-khan-55a7b5372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-talha-khan-55a7b5372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/talha_khan_0071) 
 
 # 💻 Tech Stack:
