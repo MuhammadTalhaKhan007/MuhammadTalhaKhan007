@@ -1,7 +1,6 @@
 # 💫 About Me:
 🚀 Leveraging **AI, ML, DL, and Agentic AI systems** to build next-gen intelligent solutions 🤖  
 🍀 Developing scalable, high-performance web applications  
-🌐 Contributing to exciting open-source projects that solve real-world problems  
 🔥 Exploring advanced topics in cloud infrastructure and DevOps  
 ⚓ Designing backend technologies for building resilient microservices  
 🕸️ Advocating full-stack development best practices  
