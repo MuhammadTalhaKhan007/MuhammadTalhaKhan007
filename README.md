@@ -1,5 +1,12 @@
 # 💫 About Me:
-Developing scalable, high-performance web applications 🍀<br>Exciting open-source projects that solve real-world problems 🌐<br>Exploring advanced topics in cloud infrastructure and DevOps 🔥<br>Backend technologies for building microservices ⚓<br>Full-stack development best practices 🕸️<br>I love solving coding challenges just as much as solving puzzles! 🧠
+🚀 Leveraging **AI, ML, DL, and Agentic AI systems** to build next-gen intelligent solutions 🤖  
+🍀 Developing scalable, high-performance web applications  
+🌐 Contributing to exciting open-source projects that solve real-world problems  
+🔥 Exploring advanced topics in cloud infrastructure and DevOps  
+⚓ Designing backend technologies for building resilient microservices  
+🕸️ Advocating full-stack development best practices  
+🧠 I love solving coding challenges just as much as solving puzzles!  
+
 
 🔗 Curious about what I’ve built? Check out [my portfolio](https://muhammad-talha-khan-portfolio.vercel.app/) to see featured projects and live demos.
 
